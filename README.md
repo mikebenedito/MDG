@@ -11,7 +11,8 @@ Objetivo: desenvolver um website utilizando as tecnologias HTML, CSS e JAVASCRIP
 
 
   
-O que será avaliado em cada disciplina?  [Disciplina-Chave] Engenharia de Software I:
+O que será avaliado em cada disciplina?  
+[Disciplina-Chave] Engenharia de Software I:
      • Definição e classificação de Requisitos de Software (funcionais e não funcionais).
      • Técnicas de Levantamento de Requisitos.
      • Modelo de Negócios aplicado ao levantamento de Requisitos (Canvas). Estudo de Viabilidade.
